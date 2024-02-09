@@ -1,4 +1,4 @@
-# case-farmacias
+# Análise de dados no Power BI de clientes em comum entre 3 bases e indicadores de vendas
 
 ## Apresentação:
 Este projeto apresenta um dashboard no Power BI que traz uma análise de dados mensais sobre os clientes de 3 filiais de uma rede de farmácias, como também alguns alguns dados sobre as vendas. O foco principal é apresentar uma análise de clientes em comum entre as três farmácias, a partir do Gráfico de Venn. A escolha deste tipo de gráfico se deu por sua fácil leitura ao abordar dados que se interseccionam entre diferentes tabelas. Neste "case" o dado escolhido foi o de código de cliente.
